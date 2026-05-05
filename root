@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Normas de Convivencia en Redes Sociales</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #ffffff; /* blanco predominante */
+            color: #333;
+        }
+
+        header {
+            background-color: #d32f2f; /* rojo */
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header img {
+            width: 90px;
+            margin-bottom: 10px;
+        }
+
+        header h1 {
+            margin: 10px 0 5px;
+        }
+
+        header p {
+            margin: 0;
+            font-size: 14px;
+        }
+
+        section {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+
+        ol {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            background: #f9f9f9;
+            margin: 15px 0;
+            padding: 20px;
+            border-left: 8px solid #388e3c; /* verde */
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+            transition: 0.2s;
+        }
+
+        li:hover {
+            transform: translateX(6px);
+            background-color: #fff;
+        }
+
+        .numero {
+            font-weight: bold;
+            color: #d32f2f; /* rojo */
+        }
+
+    </style>
+</head>
+
+<body>
+
+<header>
+    <img src="https://montessoripiura.sieweb.com.pe/lms/api/HyoEscudo/imagen/escudo/montessoripiura" alt="Escudo del colegio">
+    <h1>Normas de Convivencia en Redes Sociales</h1>
+    <p>Victor Hugo M. E. - 1° de Secundaria "A"</p>
+</header>
+
+<section>
+    <ol>
+
+        <li><span class="numero">1.</span> No compartir datos personales como dirección, número telefónico y contraseñas para proteger nuestra seguridad y la de los demás.</li>
+
+        <li><span class="numero">2.</span> Cuidar qué fotos o videos subimos en redes sociales, ya que pueden afectar a diversas personas o generar conflictos.</li>
+
+        <li><span class="numero">3.</span> Pedir permiso antes de publicar fotos, videos o información de demás personas.</li>
+
+        <li><span class="numero">4.</span> Usar un vocabulario respetuoso y ético en plataformas digitales, evitando malas palabras, insultos y ofensas.</li>
+
+        <li><span class="numero">5.</span> Siempre respetar las opiniones de los demás, aunque no estemos de acuerdo con ellos.</li>
+
+        <li><span class="numero">6.</span> No participar en situaciones de ciberacoso ni burlas y reportar si se presentan estos casos a un tutor, padre de familia o adulto responsable.</li>
+
+        <li><span class="numero">7.</span> Evitar difundir información sin pensar si puede hacer daño a otras personas.</li>
+
+        <li><span class="numero">8.</span> Verificar la información antes de compartirla en Internet, para evitar difundir noticias falsas o rumores.</li>
+
+        <li><span class="numero">9.</span> Usar el tiempo en redes sociales de forma responsable, sin olvidar los estudios, la familia y demás responsabilidades.</li>
+
+        <li><span class="numero">10.</span> Ser responsable con lo que decimos en línea, recordando que hablamos con personas reales.</li>
+
+    </ol>
+</section>
+
+</body>
+</html>
